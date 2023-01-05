@@ -1,0 +1,23 @@
+import urllib.request
+import json
+import datetime
+import random
+import string
+import time
+import os
+import sys
+os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
+os.system('cls' if os.name == 'nt' else 'clear')
+print('      ___ _      ______________       ___ ___ ___ _______\n'
+'     (  _  | \     \   |   ( \     (  _  |  __ |  __ |  ___  )\n'
+'     | (   ) | (        ) (     ) (  | (     | (   ) | (    )| (    )| (   ) |\n'
+'     | (___) | |        | |     | |  | |     | (___) | (____)| (____)| |   | |\n'
+'     |  _  | |        | |     | |  | |     |  _  |  _____)     __) |   | |\n'
+'     | (   ) | |        | |     | |  | |     | (   ) | (     | (\ (  | |   | |\n'
+'     | )   ( | (____/\__) (_____) (__| (____/\ )   ( | )     | ) \ \_| (___) |\n'
+'     |/     \(_______|_______|_______(_______//     \|/      |/   \__(_______)\n')
+print ("[+] ABOUT SCRIPT:")
+print ("[-] With this script, you can getting unlimited GB on Warp+.")
+print ("[-] Version: 4.0.0")
+print ("--------")
+print ("[+
